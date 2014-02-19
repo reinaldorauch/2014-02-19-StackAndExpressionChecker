@@ -1,0 +1,1941 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Twi",
+				"Twig_SimpleFunction"
+			],
+			[
+				"lo",
+				"logoFull"
+			],
+			[
+				"logo",
+				"logoPath"
+			],
+			[
+				"get_class",
+				"get_class_methods"
+			],
+			[
+				"get_clas",
+				"get_class_methods"
+			],
+			[
+				"MIN",
+				"minLength"
+			],
+			[
+				"min",
+				"minLength"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"id",
+				"idClient"
+			],
+			[
+				"roles",
+				"rolesNames"
+			],
+			[
+				"in",
+				"in_array"
+			],
+			[
+				"g",
+				"getRealRoleList  (function)"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"utf",
+				"utf8_encode"
+			],
+			[
+				"a",
+				"attribute"
+			],
+			[
+				"secu",
+				"securityParameters"
+			],
+			[
+				"Yal",
+				"Yaml"
+			],
+			[
+				"Rol",
+				"RoleException"
+			],
+			[
+				"Exce",
+				"Exception  (class)"
+			],
+			[
+				"pro",
+				"provider"
+			],
+			[
+				"U",
+				"USER_ENTITY"
+			],
+			[
+				"VAl",
+				"VALID_NOME  (constant)"
+			],
+			[
+				"VAL",
+				"VALID_ROW  (constant)"
+			],
+			[
+				"RE",
+				"RETORNO_MESSAGE"
+			],
+			[
+				"Archun",
+				"ARQUIVO_CHUNKSIZE"
+			],
+			[
+				"AR",
+				"ARQUIVO_FILENAME"
+			],
+			[
+				"ARQUIVO_ID",
+				"ARQUIVO_ID_CENTRO_CUSTO"
+			],
+			[
+				"ARQUIVO",
+				"ARQUIVO_SMS"
+			],
+			[
+				"Arquivo_",
+				"ARQUIVO_INVALID"
+			],
+			[
+				"get",
+				"getProperty  (function)"
+			],
+			[
+				"Ref",
+				"ReflectionClass  (class)"
+			],
+			[
+				"Eve",
+				"EventManager  (namespace)"
+			],
+			[
+				"Exc",
+				"Exception  (class)"
+			],
+			[
+				"event",
+				"eventName  (variable)"
+			],
+			[
+				"EV",
+				"Events"
+			],
+			[
+				"class_",
+				"class_exists"
+			],
+			[
+				"clas",
+				"classes"
+			],
+			[
+				"cla",
+				"classes"
+			],
+			[
+				"LOG_I",
+				"LOG_ID_ALTERED"
+			],
+			[
+				"BLAC",
+				"BLACKLIST_ID_CLIENTE"
+			],
+			[
+				"Doc",
+				"DocumentManager"
+			],
+			[
+				"best",
+				"bestuse-teste"
+			],
+			[
+				"mongodb",
+				"mongodb"
+			],
+			[
+				"DOc",
+				"DOCS_PATH"
+			],
+			[
+				"docs",
+				"DOCS_PATH"
+			],
+			[
+				"assert",
+				"assertEquals"
+			],
+			[
+				"set",
+				"setCreated  (function)"
+			],
+			[
+				"asser",
+				"assertInstanceOf  (function)"
+			],
+			[
+				"sa",
+				"savedUser  (variable)"
+			],
+			[
+				"assertNot",
+				"assertNotNull"
+			],
+			[
+				"assertCon",
+				"assertContainsOnlyInstancesOf  (function)"
+			],
+			[
+				"client",
+				"buildClient  (function)"
+			],
+			[
+				"assertNo",
+				"assertNotNull  (function)"
+			],
+			[
+				"u",
+				"users"
+			],
+			[
+				"saved",
+				"savedClient"
+			],
+			[
+				"cl",
+				"client"
+			],
+			[
+				"db",
+				"dbParams"
+			],
+			[
+				"em",
+				"entityManager"
+			],
+			[
+				"get_",
+				"get_class"
+			],
+			[
+				"Phpunit_fra",
+				"PHPUnit_Framework_TestCase  (class)"
+			],
+			[
+				"user",
+				"userCollection"
+			],
+			[
+				"PAS",
+				"password"
+			],
+			[
+				"ROLE",
+				"ROLE_ADMIN"
+			],
+			[
+				"role_",
+				"ROLE_SUPERUSER"
+			],
+			[
+				"Ser",
+				"ServiceProviderInterface  (interface)"
+			],
+			[
+				"E",
+				"EnvironmentManager  (class)"
+			],
+			[
+				"EN",
+				"ENV_PRODUCTION"
+			],
+			[
+				"ENV",
+				"ENV_STAGIN"
+			],
+			[
+				"ENV_",
+				"ENV_PRODUCTION"
+			],
+			[
+				"BA",
+				"BARRAS_INDEX"
+			],
+			[
+				"eleve",
+				"elevenSheet"
+			],
+			[
+				"real",
+				"real_escape_string  (function)"
+			],
+			[
+				"row",
+				"rowCount  (variable)"
+			],
+			[
+				"vali",
+				"validos  (variable)"
+			],
+			[
+				"PHP",
+				"PHPExcel_Cell_DataType"
+			],
+			[
+				"utf8",
+				"utf8_encode"
+			],
+			[
+				"line",
+				"line_pattern"
+			],
+			[
+				"inva",
+				"invalid  (variable)"
+			],
+			[
+				"is_",
+				"is_concat  (variable)"
+			],
+			[
+				"txt",
+				"txt_pattern"
+			],
+			[
+				"o",
+				"objf"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"e",
+				"eleven_ddd  (variable)"
+			],
+			[
+				"invalid",
+				"invalid_array  (variable)"
+			],
+			[
+				"bl",
+				"blacklist"
+			],
+			[
+				"lin",
+				"line_pattern"
+			],
+			[
+				"blac",
+				"blacklist_array"
+			],
+			[
+				"black",
+				"blacklist_array  (variable)"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"date",
+				"datepicker"
+			],
+			[
+				"res",
+				"result_path"
+			],
+			[
+				"reu",
+				"result_path  (variable)"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"http",
+				"httpStatus"
+			],
+			[
+				"val",
+				"validRowsColl"
+			],
+			[
+				"va",
+				"validTransaction"
+			],
+			[
+				"valid",
+				"validRows"
+			],
+			[
+				"str_repa",
+				"str_replace"
+			],
+			[
+				"pre",
+				"preg_replace"
+			],
+			[
+				"curl_e",
+				"curl_exec"
+			],
+			[
+				"curl",
+				"curl_setopt  (function)"
+			],
+			[
+				"sms",
+				"sms_ptrn"
+			],
+			[
+				"last",
+				"lastArray  (variable)"
+			],
+			[
+				"invali",
+				"invalid_lines"
+			],
+			[
+				"mb_",
+				"mb_strtolower"
+			],
+			[
+				"mb_con",
+				"mb_convert_encoding"
+			],
+			[
+				"ccu",
+				"ccusto_name  (variable)"
+			],
+			[
+				"cc",
+				"ccusto_name  (variable)"
+			],
+			[
+				"mb_c",
+				"mb_convert_encoding"
+			],
+			[
+				"file",
+				"file_line"
+			],
+			[
+				"fil",
+				"fileSubtitle"
+			],
+			[
+				"see",
+				"invalidSheetLines  (variable)"
+			],
+			[
+				"getS",
+				"getSheet  (function)"
+			],
+			[
+				"ar",
+				"arquivos"
+			],
+			[
+				"rege",
+				"regex_data"
+			],
+			[
+				"shee",
+				"sheetLines"
+			],
+			[
+				"sher",
+				"sheetTitle  (variable)"
+			],
+			[
+				"setVa",
+				"setValueExplicit  (function)"
+			],
+			[
+				"inval",
+				"invalid_lines"
+			],
+			[
+				"c",
+				"createSheet  (function)"
+			],
+			[
+				"she",
+				"sheetTitle"
+			],
+			[
+				"i",
+				"ifr_src  (variable)"
+			],
+			[
+				"app",
+				"APPLICATION_ENV"
+			],
+			[
+				"A",
+				"APPLICATION_ENV"
+			],
+			[
+				"emai",
+				"email_name"
+			],
+			[
+				"preg",
+				"preg_match"
+			],
+			[
+				"loadD",
+				"loadDataByOrgID  (function)"
+			],
+			[
+				"not",
+				"not_valid_rows"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 33.0,
+		"selected_items":
+		[
+			[
+				"syaml",
+				"Set Syntax: YAML"
+			],
+			[
+				"ge",
+				"Generate Getter and Setter for ..."
+			],
+			[
+				"yaml",
+				"Set Syntax: YAML"
+			],
+			[
+				"xdebu",
+				"Xdebug: Stop Debugging (Close Windows)"
+			],
+			[
+				"x",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ssjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"stop",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"gente",
+				"Generate Getter and Setter for ..."
+			],
+			[
+				"genegeser",
+				"PHP: Generate Getters and Setters"
+			],
+			[
+				"gengetset",
+				"PHP: Generate Getters and Setters"
+			],
+			[
+				"generate",
+				"PHP: Generate Getters and Setters"
+			],
+			[
+				"default",
+				"Preferences: Settings - Default"
+			],
+			[
+				"ssyaml",
+				"Set Syntax: YAML"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"PHP: Generate",
+				"PHP: Generate Getters and Setters"
+			],
+			[
+				"getter",
+				"PHP: Generate Getters and Setters"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"gene",
+				"PHP: Generate Getters and Setters"
+			],
+			[
+				"get",
+				"PHP: Generate Getters and Setters"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"l",
+				"Package Control: List Packages"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"sssql",
+				"Set Syntax: SQL"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"isn",
+				"Package Control: Install Package"
+			],
+			[
+				"ina",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"ssapa",
+				"Set Syntax: Apache Conf"
+			],
+			[
+				"insa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"repar",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"reparse",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Pack",
+				"Package Control: List Packages"
+			],
+			[
+				"pagcke",
+				"Package Control: Install Package"
+			],
+			[
+				"ssja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"traii",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssjsva",
+				"Set Syntax: Java Server Page (JSP)"
+			],
+			[
+				"ssjade",
+				"Set Syntax: Jade"
+			],
+			[
+				"sssass",
+				"Set Syntax: Sass"
+			],
+			[
+				"intal",
+				"SublimeCodeIntel: Disable Live Autocompletion"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"ssc",
+				"Set Syntax: C"
+			],
+			[
+				"upd",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"PACK",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"SSHASL",
+				"Set Syntax: Haskell"
+			],
+			[
+				"grade",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"pac",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"ssjav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"php set",
+				"PHP: Generate Getters and Setters"
+			],
+			[
+				"get set",
+				"Snippet: Create getter and setter methods"
+			],
+			[
+				"setin",
+				"Preferences: Settings - Default"
+			],
+			[
+				"setu",
+				"Preferences: Settings - User"
+			],
+			[
+				"ssphg",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"ssjso",
+				"Set Syntax: JSON"
+			],
+			[
+				"ssini",
+				"Set Syntax: INI"
+			],
+			[
+				"ssql",
+				"Set Syntax: SQL"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet gets",
+				"Snippet: Create getter and setter methods"
+			],
+			[
+				"Snippet: get",
+				"Snippet: Create getter and setter methods"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ssph",
+				"Set Syntax: PHP"
+			],
+			[
+				"Ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"Packa",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"Ips",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"terminal",
+				"Preferences: Terminal Settings – Default"
+			],
+			[
+				"pacha",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"colo",
+				"Color picker"
+			],
+			[
+				"li",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"In",
+				"Package Control: Install Package"
+			],
+			[
+				"Apac",
+				"Package Control: Install Package"
+			],
+			[
+				"INst",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"fun",
+				"Snippet: Function Signature"
+			],
+			[
+				"inter",
+				"Snippet: Interface"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 473.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/reinaldo/trabalhos/bestuse-novo/tests/_reports/coverage/css/nv.d3.css",
+		"/home/reinaldo/trabalhos/bestuse-novo/bootstrap-mongodb.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/tests/_reports/coverage/Model_Entity_User.php.html",
+		"/home/reinaldo/trabalhos/bestuse-novo/src/W6/Model/Entity/CentroCusto.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/config/routes.yml",
+		"/home/reinaldo/trabalhos/bestuse-novo/src/W6/Controller/ClientController.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/doctrine/orm/lib/Doctrine/ORM/EntityRepository.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/src/W6/Controller/CentroCustoController.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/src/W6/Model/Entity/Repository/CentroCustoRepository.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/config/eventListener.yml",
+		"/home/reinaldo/trabalhos/bestuse-novo/src/W6/Model/Entity/Repository/ClientRepository.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/composer.json",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/twig/twig/doc/filters/convert_encoding.rst",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/phpunit/php-code-coverage/Tests/_files/CoverageNoneTest.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/debug/Symfony/Component/Debug/Exception/ClassNotFoundException.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/phpunit/php-token-stream/Tests/_files/classInNamespace.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/src/W6/Model/Entity/Client.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/views/clients/home.twig",
+		"/home/reinaldo/trabalhos/bestuse-novo/web/admin/css/styles.css",
+		"/home/reinaldo/trabalhos/bestuse-novo/web/admin/css/reset.css",
+		"/home/reinaldo/trabalhos/bestuse-novo/web/admin/css/custom.css",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/phpunit/phpunit/Tests/Framework/SuiteTest.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/docs/databases/sistema_legado.mwb",
+		"/home/reinaldo/trabalhos/bestuse-novo/views/users/home.twig",
+		"/home/reinaldo/trabalhos/bestuse-novo/web/index.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/views/clients/form.twig",
+		"/home/reinaldo/trabalhos/bestuse-novo/views/admin.twig",
+		"/home/reinaldo/trabalhos/bestuse-novo/config/config.yml",
+		"/home/reinaldo/trabalhos/bestuse-novo/config/config.yml.dist",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/autoload.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/imagine/imagine/lib/Imagine/Image/Box.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/File/UploadedFile.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/bin/mysql-workbench-schema-exporter/example/propel_and_doctrine.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/imagine/imagine/lib/Imagine/Image/BoxInterface.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/twig/twig/lib/Twig/Node/Expression/Binary/BitwiseXor.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/src/W6/Controller/DashBoardController.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/src/W6/Model/Document/Confiaveis.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/swiftmailer/swiftmailer/test-suite/lib/simpletest/test/support/upload_sample.txt",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/swiftmailer/swiftmailer/test-suite/lib/simpletest/packages/phpdoc_docs.xslt",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/swiftmailer/swiftmailer/test-suite/xpath-legacy.js",
+		"/home/reinaldo/trabalhos/bestuse-novo/src/W6/Model/Entity/User.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/File/Exception/UploadException.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/web/admin/php/upload.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/src/W6/Provider/UserProvider.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/bootstrap.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/tests/bootstrap.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/doctrine/mongodb-odm/tests/Doctrine/ODM/MongoDB/Tests/Functional/FlushOptionsTest.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/web/admin/js/files/functions.js",
+		"/home/reinaldo/trabalhos/bestuse-novo/src/W6/Model/Document/ClientPhone.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/.gitignore",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/doctrine/mongodb-odm/lib/Doctrine/ODM/MongoDB/Types/BinDataFuncType.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/doctrine/mongodb-odm/tests/Documents/ForumUser.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/phpunit/php-file-iterator/File/Iterator/Factory.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/web/upload/logos/.gitkeep",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/filesystem/Symfony/Component/Filesystem/Exception/FileNotFoundException.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/src/W6/Model/Entity/Repository/UserRepository.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/src/W6/Controller/UserController.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/views/clients/listUser.twig",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/doctrine/mongodb-odm/tools/sandbox/Documents/UserRepository.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/doctrine/mongodb-odm/tests/Documents/UserUpsert.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/doctrine/mongodb-odm/tests/Documents/UserUpsertIdStrategyNone.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/JsonResponse.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/phpunit/php-code-coverage/PHP/CodeCoverage/Report/HTML/Renderer/Template/js/jquery.min.js",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/doctrine/orm/lib/Doctrine/ORM/Tools/Console/Command/GenerateEntitiesCommand.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/views/clients/topContent.twig",
+		"/home/reinaldo/trabalhos/bestuse-novo/tests/src/W6/Model/Entity/ClientTest.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/tests/_reports/coverage/Model_Entity.html",
+		"/home/reinaldo/trabalhos/bestuse-novo/views/home.twig",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/swiftmailer/swiftmailer/test-suite/lib/simpletest/packages/simpletest.org/test/package/here_overview.xml",
+		"/home/reinaldo/trabalhos/bestuse-novo/views/users/form.twig",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/validator/Symfony/Component/Validator/Validator.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/silex/silex/src/Silex/Provider/ValidatorServiceProvider.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/validator/Symfony/Component/Validator/Mapping/ClassMetadata.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/validator/Symfony/Component/Validator/Constraint.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/validator/Symfony/Component/Validator/Tests/ConstraintTest.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/validator/Symfony/Component/Validator/Tests/Constraints/CountValidatorCountableTest.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/src/W6/Model/Document/EventListener/ValidateInsert.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/doctrine/mongodb-odm/tests/Documents/Address.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/doctrine/mongodb-odm/lib/Doctrine/ODM/MongoDB/Mapping/ClassMetadata.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/validator/Symfony/Component/Validator/ValidationVisitor.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/validator/Symfony/Component/Validator/ClassBasedInterface.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/form/Symfony/Component/Form/Resources/translations/validators.ca.xlf",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/validator/Symfony/Component/Validator/Validation.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/silex/silex/doc/providers/validator.rst",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/phpunit/phpunit/Tests/Regression/GitHub/244.phpt",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/doctrine/mongodb-odm/lib/Doctrine/ODM/MongoDB/DocumentRepository.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/doctrine/mongodb-odm/lib/Doctrine/ODM/MongoDB/DocumentManager.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/bin/doctrine",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/translation/Symfony/Component/Translation/Catalogue/DiffOperation.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/doctrine/mongodb-odm/tests/Documents/CustomRepository/Repository.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/src/W6/Model/Document/Report.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/src/W6/Model/Role/RoleProvider.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/src/W6/Model/Role/Exception/RoleException.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/config/roles.yml",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/security/Symfony/Component/Security/Core/User/ChainUserProvider.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/security/Symfony/Component/Security/Core/Validator/Constraints/UserPassword.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/security/Symfony/Component/Security/Core/Exception/DisabledException.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/security/Symfony/Component/Security/Core/Exception/LogoutException.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/security/Symfony/Component/Security/Core/Exception/LockedException.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/security/Symfony/Component/Security/Acl/Exception/Exception.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/security/Symfony/Component/Security/Core/Exception/RuntimeException.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/security/Symfony/Component/Security/Core/Exception/ExceptionInterface.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/security/Symfony/Component/Security/Core/SecurityContextInterface.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/security/Symfony/Component/Security/Core/SecurityContext.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/silex/silex/src/Silex/Provider/SecurityServiceProvider.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/bin/mysql-workbench-schema-exporter/example/diff/schema-export",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/security/Symfony/Component/Security/Core/Authentication/AuthenticationProviderManager.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/swiftmailer/swiftmailer/test-suite/lib/simpletest/authentication.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/twig/twig/AUTHORS",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/security/Symfony/Component/Security/Core/Tests/Authentication/RememberMe/InMemoryTokenProviderTest.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/security/Symfony/Component/Security/Core/Authentication/RememberMe/InMemoryTokenProvider.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/security/Symfony/Component/Security/Core/Authentication/RememberMe/TokenProviderInterface.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/security/Symfony/Component/Security/Core/Tests/Authentication/Provider/PreAuthenticatedAuthenticationProviderTest.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/security/Symfony/Component/Security/Core/Authentication/Provider/PreAuthenticatedAuthenticationProvider.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/security/Symfony/Component/Security/Core/Tests/Authentication/Provider/RememberMeAuthenticationProviderTest.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/security/Symfony/Component/Security/Core/Tests/Authentication/Provider/AnonymousAuthenticationProviderTest.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/security/Symfony/Component/Security/Core/Authentication/Provider/RememberMeAuthenticationProvider.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/security/Symfony/Component/Security/Core/Authentication/Provider/AnonymousAuthenticationProvider.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/security/Symfony/Component/Security/Core/Tests/Authentication/Provider/UserAuthenticationProviderTest.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/security/Symfony/Component/Security/Core/Authentication/Provider/SimpleAuthenticationProvider.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/security/Symfony/Component/Security/Core/Tests/Authentication/Provider/DaoAuthenticationProviderTest.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/security/Symfony/Component/Security/Core/Authentication/Provider/UserAuthenticationProvider.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/security/Symfony/Component/Security/Core/Authentication/Provider/DaoAuthenticationProvider.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/security/Symfony/Component/Security/Core/Tests/Authentication/AuthenticationProviderManagerTest.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/security/Symfony/Component/Security/Core/Authentication/Provider/AuthenticationProviderInterface.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/phpunit/phpunit/Tests/TextUI/abstract-test-class.phpt",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/twig/twig/lib/Twig/NodeVisitor/SafeAnalysis.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/doctrine/dbal/lib/Doctrine/DBAL/Schema/SchemaDiff.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"vendor/symfony/security",
+			"vendor/silex/silex/src/Silex/Provider/",
+			"/home/reinaldo/trabalhos/bestuse-novo/src/W6/",
+			"/home/reinaldo/trabalhos/bestuse-novo/src/W6/Model/Document",
+			"/home/reinaldo/trabalhos/bestuse-novo/tests",
+			"/home/reinaldo/trabalhos/bestuse-novo",
+			"/home/reinaldo/trabalhos/bestuse",
+			"/home/reinaldo/trabalhos/agp-async/app/models",
+			"/home/reinaldo/trabalhos/agp-async/app/controllers",
+			"/home/reinaldo/trabalhos/agp-async/app/models",
+			"/home/reinaldo/trabalhos/agp-async/uploads/2227.xml",
+			"/home/reinaldo/trabalhos/agp-async/app/",
+			"/home/reinaldo/trabalhos/agp-async/app/controllers/index.js",
+			"/home/reinaldo/trabalhos/efolha/application/forms",
+			"/home/reinaldo/trabalhos/efolha/application",
+			"/home/reinaldo/trabalhos/efolha/application/models",
+			"/home/reinaldo/trabalhos/efolha/public/js",
+			"/home/reinaldo/trabalhos/efolha/public/css",
+			"/home/reinaldo/trabalhos/efolha/public/js/files",
+			"/home/reinaldo/trabalhos/efolha/public/css",
+			"/home/reinaldo/trabalhos/efolha/public/js/files",
+			"/home/reinaldo/trabalhos/efolha/application/",
+			"/home/reinaldo/trabalhos/efolha/application/controllers/",
+			"/home/reinaldo/trabalhos/efolha/public/js/files",
+			"/home/reinaldo/trabalhos/efolha/public/css",
+			"/home/reinaldo/trabalhos/efolha/public/js/files",
+			"/home/reinaldo/trabalhos/efolha/application/controllers",
+			"/home/reinaldo/trabalhos/efolha/public/js",
+			"/home/reinaldo/trabalhos/efolha/application/models",
+			"/home/reinaldo/trabalhos/efolha/application/model",
+			"/home/reinaldo/trabalhos/efolha/application/controllers",
+			"/home/reinaldo/trabalhos/efolha/application/models",
+			"/home/reinaldo/trabalhos/finsys/public/js",
+			"/home/reinaldo/trabalhos/finsys/",
+			"/home/reinaldo/trabalhos/finsys/application",
+			"/home/reinaldo/trabalhos/finsys/",
+			"/home/reinaldo/trabalhos/finsys/module",
+			"/home/reinaldo/trabalhos/finsys/vendor/doctrine/",
+			"/home/reinaldo/trabalhos/finsys/module/FinsysAdmin/view/finsys-admin/index",
+			"/home/reinaldo/trabalhos/mbs/application",
+			"/home/reinaldo/trabalhos/mbs/application/forms",
+			"/home/reinaldo/trabalhos/mbs/public/scripts",
+			"/home/reinaldo/trabalhos/mbs/application/controllers",
+			"/home/reinaldo/trabalhos/mbs/application/forms",
+			"/home/reinaldo/trabalhos/mbs/library/Zend",
+			"/home/reinaldo/trabalhos/mbs/application",
+			"/home/reinaldo/trabalhos/mbs/library/Zend/View",
+			"/home/reinaldo/trabalhos/mbs/application/forms",
+			"/home/reinaldo/trabalhos/mbs/application/controllers",
+			"/home/reinaldo/trabalhos/mbs/application/forms",
+			"*Controller.php",
+			"*.phtml",
+			"*.js",
+			"*.php",
+			"*.phtml",
+			"*.php",
+			"*.js",
+			"",
+			"/mnt/www/mbs/public/stylesheets",
+			"*.phtml,/mnt/www/mbs/application/views/scripts",
+			"*.js,/mnt/www/mbs/application/views/scripts",
+			"*.js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"cliente",
+			"admin/clients",
+			"Clientes",
+			"client",
+			"Clientes",
+			"admin/clients",
+			"centroCustoe",
+			"Client",
+			"client",
+			"cClient",
+			"client",
+			"Client",
+			"client",
+			"clients",
+			"client_",
+			"CLIENT_ENTITY",
+			"uniform",
+			"class=\"grid11\"",
+			"class=\"grid1\"",
+			"grid1",
+			"die",
+			"categorias",
+			"category",
+			"clients",
+			"ativo",
+			"category",
+			"descricao_pt",
+			"category",
+			"nome_pt",
+			"categorias",
+			"Categorias",
+			"<a",
+			"category",
+			"categorias",
+			"de Produtos",
+			"Categorias",
+			"categorias",
+			"category",
+			"clientes",
+			"categorias",
+			"menu",
+			"Categoria",
+			"cliente",
+			"categorias/",
+			"category_",
+			"CategoryController",
+			"validatorser",
+			"refreshUser",
+			"reload",
+			"reloadUser",
+			"authenticationPro",
+			"Credentials",
+			"clearCredentials",
+			"Searching",
+			"clearCredentials",
+			"nome",
+			"getRolesToList",
+			"label",
+			"access_rules",
+			"value",
+			"http_proxy",
+			"/path/to/file/on/server",
+			", ",
+			"Login",
+			"->login",
+			"userProvider",
+			"config.routing",
+			"UserProvider",
+			"Application",
+			"W6\\Model\\User",
+			"getAllUsers",
+			"W6\\Model\\User",
+			"$savedV",
+			"self",
+			"INVALID_",
+			"$v",
+			"new Valid",
+			"VALID_",
+			"INVALID_",
+			"const VALID",
+			"Valid",
+			"ass($v)$savedV, ",
+			", ",
+			"$savedV, get_class($v)",
+			"dm->getDocumentManager",
+			"etIdArquivo",
+			"string",
+			"$file",
+			"file",
+			"savedFile",
+			"@ODM\\Integer",
+			"DateTime",
+			"int",
+			"MongoDate",
+			"^311",
+			"Dispatch",
+			"EventListenerInterface",
+			"getIdAltered",
+			"et_id",
+			"LOG_ID_CLIENTE",
+			"LOG_QUERYSTRING",
+			"Entity",
+			"EntityUrl",
+			"QueryString",
+			"$savedRep",
+			"$rep",
+			"Report",
+			"rep",
+			"REPORT_",
+			"setQueryString",
+			"etQs",
+			"Qs",
+			"et_id",
+			"_id",
+			"string",
+			"getPhone",
+			"$savedBl",
+			"$bl",
+			"bl",
+			"Blacklist",
+			"BLACKLIST",
+			"bl",
+			"ID_CLIENTE",
+			"$savedBl",
+			"$bl",
+			"buildBlacklist",
+			"BLACKLIST_",
+			"BLACKLIST_PHONE"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"W6\\Model\\Document",
+			".val.trim()",
+			"formCmsConfig",
+			"            \n",
+			"remover",
+			"')\n",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/media/arquivo/Códigos/UEPG/Estruturas de Dados/2014-02-19"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"project": "",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"index",
+				"web/index.php"
+			],
+			[
+				"entity",
+				"vendor/doctrine/orm/lib/Doctrine/ORM/EntityRepository.php"
+			],
+			[
+				"clientre",
+				"src/W6/Model/Entity/Repository/ClientRepository.php"
+			],
+			[
+				"centro",
+				"src/W6/Model/Entity/CentroCusto.php"
+			],
+			[
+				"cnetro",
+				"src/W6/Model/Entity/CentroCusto.php"
+			],
+			[
+				"centrocus",
+				"src/W6/Controller/CentroCustoController.php"
+			],
+			[
+				"client",
+				"src/W6/Controller/ClientController.php"
+			],
+			[
+				"style",
+				"web/admin/css/styles.css"
+			],
+			[
+				"home",
+				"views/clients/home.twig"
+			],
+			[
+				"config",
+				"config/config.yml"
+			],
+			[
+				"admin",
+				"views/admin.twig"
+			],
+			[
+				"bxin",
+				"vendor/imagine/imagine/lib/Imagine/Image/BoxInterface.php"
+			],
+			[
+				"box",
+				"vendor/imagine/imagine/lib/Imagine/Image/Box.php"
+			],
+			[
+				"uploade",
+				"vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/File/UploadedFile.php"
+			],
+			[
+				"boo",
+				"bootstrap.php"
+			],
+			[
+				"form",
+				"views/clients/form.twig"
+			],
+			[
+				"com",
+				"composer.json"
+			],
+			[
+				"clien",
+				"src/W6/Controller/ClientController.php"
+			],
+			[
+				"function",
+				"web/admin/js/files/functions.js"
+			],
+			[
+				"clientform",
+				"views/clients/form.twig"
+			],
+			[
+				"user",
+				"src/W6/Model/Entity/User.php"
+			],
+			[
+				"userrepo",
+				"src/W6/Model/Entity/Repository/UserRepository.php"
+			],
+			[
+				"usrcon",
+				"src/W6/Controller/UserController.php"
+			],
+			[
+				"clientcon",
+				"src/W6/Controller/ClientController.php"
+			],
+			[
+				"clienthome",
+				"views/clients/home.twig"
+			],
+			[
+				"clientsform",
+				"views/clients/form.twig"
+			],
+			[
+				"menu",
+				"tests/_reports/coverage/Model_Entity_User.php.html"
+			],
+			[
+				"validatorconstraint",
+				"vendor/symfony/validator/Symfony/Component/Validator/Constraint.php"
+			],
+			[
+				"validatorclassmetadata",
+				"vendor/symfony/validator/Symfony/Component/Validator/Mapping/ClassMetadata.php"
+			],
+			[
+				"validatorclass",
+				"vendor/symfony/validator/Symfony/Component/Validator/Mapping/ClassMetadata.php"
+			],
+			[
+				"classme",
+				"vendor/doctrine/mongodb-odm/lib/Doctrine/ODM/MongoDB/Mapping/ClassMetadata.php"
+			],
+			[
+				"validationvisitor",
+				"vendor/symfony/validator/Symfony/Component/Validator/ValidationVisitor.php"
+			],
+			[
+				"validatorvalidator",
+				"vendor/symfony/validator/Symfony/Component/Validator/Validator.php"
+			],
+			[
+				"validatorser",
+				"vendor/silex/silex/src/Silex/Provider/ValidatorServiceProvider.php"
+			],
+			[
+				"entityre",
+				"vendor/doctrine/orm/lib/Doctrine/ORM/EntityRepository.php"
+			],
+			[
+				"reposi",
+				"vendor/doctrine/mongodb-odm/tests/Documents/CustomRepository/Repository.php"
+			],
+			[
+				"userpro",
+				"src/W6/Provider/UserProvider.php"
+			],
+			[
+				"userop",
+				"src/W6/Provider/UserProvider.php"
+			],
+			[
+				"userpo",
+				"src/W6/Provider/UserProvider.php"
+			],
+			[
+				"authenticationprovie",
+				"vendor/symfony/security/Symfony/Component/Security/Core/Authentication/AuthenticationProviderManager.php"
+			],
+			[
+				"security",
+				"vendor/silex/silex/src/Silex/Provider/SecurityServiceProvider.php"
+			],
+			[
+				"userform",
+				"views/users/form.twig"
+			],
+			[
+				"usercon",
+				"src/W6/Controller/UserController.php"
+			],
+			[
+				"userhome",
+				"views/users/home.twig"
+			],
+			[
+				"rolepro",
+				"src/W6/Model/Role/RoleProvider.php"
+			],
+			[
+				"roleroe",
+				"vendor/symfony/security/Symfony/Component/Security/Core/Role/Role.php"
+			],
+			[
+				"rolerole",
+				"src/W6/Model/Role/RoleProvider.php"
+			],
+			[
+				"voter",
+				"vendor/symfony/security/Symfony/Component/Security/Core/Authorization/Voter/RoleVoter.php"
+			],
+			[
+				"accessdesi",
+				"vendor/symfony/security/Symfony/Component/Security/Core/Authorization/AccessDecisionManager.php"
+			],
+			[
+				"accessli",
+				"vendor/symfony/security/Symfony/Component/Security/Http/Firewall/AccessListener.php"
+			],
+			[
+				"secutiser",
+				"vendor/silex/silex/src/Silex/Provider/SecurityServiceProvider.php"
+			],
+			[
+				"silexservice",
+				"vendor/silex/silex/src/Silex/ServiceProviderInterface.php"
+			],
+			[
+				"boots",
+				"bootstrap.php"
+			],
+			[
+				"twi",
+				"vendor/silex/silex/src/Silex/Provider/TwigServiceProvider.php"
+			],
+			[
+				"twigser",
+				"vendor/silex/silex/src/Silex/Provider/TwigServiceProvider.php"
+			],
+			[
+				"role",
+				"vendor/symfony/security/Symfony/Component/Security/Core/Role/Role.php"
+			],
+			[
+				"in",
+				"web/index.php"
+			],
+			[
+				"userproveriner",
+				"vendor/symfony/security/Symfony/Component/Security/Core/User/UserProviderInterface.php"
+			],
+			[
+				"lo",
+				"views/login.twig"
+			],
+			[
+				"userp",
+				"src/W6/Provider/UserProvider.php"
+			],
+			[
+				"applc",
+				"vendor/silex/silex/src/Silex/Application.php"
+			],
+			[
+				"conf",
+				"config/config.yml"
+			],
+			[
+				"userre",
+				"vendor/doctrine/mongodb-odm/tools/sandbox/Documents/UserRepository.php"
+			],
+			[
+				"referenceone",
+				"vendor/doctrine/mongodb-odm/lib/Doctrine/ODM/MongoDB/Mapping/Annotations/ReferenceOne.php"
+			],
+			[
+				"odmtype",
+				"vendor/doctrine/mongodb-odm/lib/Doctrine/ODM/MongoDB/Types/Type.php"
+			],
+			[
+				"mongogrid",
+				"vendor/doctrine/mongodb-odm/docs/en/reference/storing-files-with-mongogridfs.rst"
+			],
+			[
+				"validate",
+				"src/W6/Model/Document/EventListener/ValidateInsert.php"
+			],
+			[
+				"arqtest",
+				"tests/src/W6/Model/Document/ArquivoTest.php"
+			],
+			[
+				"datet",
+				"vendor/doctrine/dbal/lib/Doctrine/DBAL/Types/DateType.php"
+			],
+			[
+				"odmid",
+				"vendor/doctrine/mongodb-odm/lib/Doctrine/ODM/MongoDB/Types/IdType.php"
+			],
+			[
+				"arquivo",
+				"tests/src/W6/Model/Document/ArquivoTest.php"
+			],
+			[
+				"grif",
+				"vendor/doctrine/mongodb/lib/Doctrine/MongoDB/GridFSFile.php"
+			],
+			[
+				"documentmanager",
+				"vendor/doctrine/mongodb-odm/lib/Doctrine/ODM/MongoDB/DocumentManager.php"
+			],
+			[
+				"odmclassmetadatainfo",
+				"vendor/doctrine/mongodb-odm/lib/Doctrine/ODM/MongoDB/Mapping/ClassMetadataInfo.php"
+			],
+			[
+				"classmetadatainfo",
+				"vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php"
+			],
+			[
+				"logtest",
+				"tests/src/W6/Model/Documents/LogTest.php"
+			],
+			[
+				"persistexception",
+				"vendor/doctrine/orm/lib/Doctrine/ORM/Persisters/PersisterException.php"
+			],
+			[
+				"classmetadatain",
+				"vendor/doctrine/mongodb-odm/lib/Doctrine/ODM/MongoDB/Mapping/ClassMetadataInfo.php"
+			],
+			[
+				"classmetadata",
+				"vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadata.php"
+			],
+			[
+				"commonannotation",
+				"vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/Annotation.php"
+			],
+			[
+				"annotation",
+				"vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/Annotation.php"
+			],
+			[
+				"abstractfie",
+				"vendor/doctrine/mongodb-odm/lib/Doctrine/ODM/MongoDB/Mapping/Annotations/AbstractField.php"
+			],
+			[
+				"persistdocument",
+				"vendor/doctrine/mongodb-odm/lib/Doctrine/ODM/MongoDB/Persisters/DocumentPersister.php"
+			],
+			[
+				"document",
+				"vendor/doctrine/mongodb-odm/lib/Doctrine/ODM/MongoDB/DocumentManager.php"
+			],
+			[
+				"unit",
+				"vendor/doctrine/mongodb-odm/lib/Doctrine/ODM/MongoDB/UnitOfWork.php"
+			],
+			[
+				"annotationsabstractfield",
+				"vendor/doctrine/mongodb-odm/lib/Doctrine/ODM/MongoDB/Mapping/Annotations/AbstractField.php"
+			],
+			[
+				"string",
+				"vendor/doctrine/mongodb-odm/lib/Doctrine/ODM/MongoDB/Mapping/Annotations/String.php"
+			],
+			[
+				"documentmana",
+				"vendor/doctrine/mongodb-odm/lib/Doctrine/ODM/MongoDB/DocumentManager.php"
+			],
+			[
+				"lifecycleeventargs",
+				"vendor/doctrine/orm/lib/Doctrine/ORM/Event/LifecycleEventArgs.php"
+			],
+			[
+				"log",
+				"log"
+			],
+			[
+				"bo",
+				"bootstrap-mongodb.php"
+			],
+			[
+				"testmongo",
+				"tests/src/W6/Test/TestMongoCase.php"
+			],
+			[
+				"testcase",
+				"tests/src/W6/Test/TestCase.php"
+			],
+			[
+				"documentman",
+				"vendor/doctrine/mongodb-odm/lib/Doctrine/ODM/MongoDB/DocumentManager.php"
+			],
+			[
+				"documentma",
+				"vendor/doctrine/mongodb-odm/lib/Doctrine/ODM/MongoDB/DocumentManager.php"
+			],
+			[
+				"eventma",
+				"vendor/doctrine/common/lib/Doctrine/Common/EventManager.php"
+			],
+			[
+				"eventmanager",
+				"vendor/doctrine/common/lib/Doctrine/Common/EventManager.php"
+			],
+			[
+				"eventar",
+				"vendor/doctrine/common/lib/Doctrine/Common/EventArgs.php"
+			],
+			[
+				"lifec",
+				"vendor/doctrine/mongodb-odm/lib/Doctrine/ODM/MongoDB/Event/LifecycleEventArgs.php"
+			],
+			[
+				"lif",
+				"vendor/doctrine/orm/lib/Doctrine/ORM/Event/LifecycleEventArgs.php"
+			],
+			[
+				"documentmanger",
+				"vendor/doctrine/mongodb-odm/lib/Doctrine/ODM/MongoDB/DocumentManager.php"
+			],
+			[
+				"classmeta",
+				"vendor/doctrine/mongodb-odm/lib/Doctrine/ODM/MongoDB/Mapping/ClassMetadata.php"
+			],
+			[
+				"work",
+				"vendor/doctrine/mongodb-odm/lib/Doctrine/ODM/MongoDB/UnitOfWork.php"
+			],
+			[
+				"unitofwork",
+				"vendor/doctrine/mongodb-odm/lib/Doctrine/ODM/MongoDB/UnitOfWork.php"
+			],
+			[
+				"boot",
+				"bootstrap-mongodb.php"
+			],
+			[
+				"bla",
+				"src/W6/Model/Document/Blacklist.php"
+			],
+			[
+				"q",
+				"src/W6/Model/Document/QANumber.php"
+			],
+			[
+				"confia",
+				"src/W6/Model/Document/Confiaveis.php"
+			],
+			[
+				"odmtypeid",
+				"vendor/doctrine/mongodb-odm/lib/Doctrine/ODM/MongoDB/Types/IdType.php"
+			],
+			[
+				"",
+				"tests/src/W6/Test/TestMongoCase.php"
+			],
+			[
+				"conneci",
+				"vendor/doctrine/mongodb/lib/Doctrine/MongoDB/Connection.php"
+			],
+			[
+				"mongo",
+				"bootstrap-mongodb.php"
+			],
+			[
+				"black",
+				"src/W6/Model/Documents/Blacklist.php"
+			],
+			[
+				"doctrinemongodbconnection",
+				"vendor/doctrine/mongodb/lib/Doctrine/MongoDB/Connection.php"
+			],
+			[
+				"con",
+				"config/config.yml"
+			],
+			[
+				"compo",
+				"composer.json"
+			],
+			[
+				"cent",
+				"src/W6/Model/Entity/CentroCusto.php"
+			],
+			[
+				"arraycolle",
+				"vendor/doctrine/collections/lib/Doctrine/Common/Collections/ArrayCollection.php"
+			],
+			[
+				"entit",
+				"vendor/doctrine/orm/lib/Doctrine/ORM/EntityRepository.php"
+			],
+			[
+				"arraycoll",
+				"vendor/doctrine/collections/lib/Doctrine/Common/Collections/ArrayCollection.php"
+			],
+			[
+				"fileiteratorfact",
+				"vendor/phpunit/php-file-iterator/File/Iterator/Factory.php"
+			],
+			[
+				"aut",
+				"vendor/autoload.php"
+			],
+			[
+				"userinter",
+				"vendor/symfony/security/Symfony/Component/Security/Core/User/UserInterface.php"
+			],
+			[
+				"advanced",
+				"vendor/symfony/security/Symfony/Component/Security/Core/User/AdvancedUserInterface.php"
+			],
+			[
+				"doctrine/common/persistence/mapping/driver/annotationdriver",
+				"vendor/doctrine/common/lib/Doctrine/Common/Persistence/Mapping/Driver/AnnotationDriver.php"
+			],
+			[
+				"annotationdriver",
+				"vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/Driver/AnnotationDriver.php"
+			],
+			[
+				"doctrine/orm/mapping/driver/annotationdriver",
+				"vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/Driver/AnnotationDriver.php"
+			],
+			[
+				"secur",
+				"vendor/silex/silex/src/Silex/Provider/SecurityServiceProvider.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/media/arquivo/Códigos/UEPG/Estruturas de Dados/2014-02-14/project/2014-02-12-Revisões.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"19":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"22":
+				{
+					"group": 0,
+					"index": 3
+				},
+				"25":
+				{
+					"group": 0,
+					"index": 2
+				},
+				"26":
+				{
+					"group": 0,
+					"index": 1
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
