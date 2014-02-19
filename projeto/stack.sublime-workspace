@@ -920,6 +920,7 @@
 	},
 	"file_history":
 	[
+		"/media/arquivo/Códigos/UEPG/Estruturas de Dados/2014-02-19/c++/stack.cpp",
 		"/home/reinaldo/trabalhos/bestuse-novo/tests/_reports/coverage/css/nv.d3.css",
 		"/home/reinaldo/trabalhos/bestuse-novo/bootstrap-mongodb.php",
 		"/home/reinaldo/trabalhos/bestuse-novo/tests/_reports/coverage/Model_Entity_User.php.html",
@@ -1046,8 +1047,7 @@
 		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/security/Symfony/Component/Security/Core/Tests/Authentication/AuthenticationProviderManagerTest.php",
 		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/security/Symfony/Component/Security/Core/Authentication/Provider/AuthenticationProviderInterface.php",
 		"/home/reinaldo/trabalhos/bestuse-novo/vendor/phpunit/phpunit/Tests/TextUI/abstract-test-class.phpt",
-		"/home/reinaldo/trabalhos/bestuse-novo/vendor/twig/twig/lib/Twig/NodeVisitor/SafeAnalysis.php",
-		"/home/reinaldo/trabalhos/bestuse-novo/vendor/doctrine/dbal/lib/Doctrine/DBAL/Schema/SchemaDiff.php"
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/twig/twig/lib/Twig/NodeVisitor/SafeAnalysis.php"
 	],
 	"find":
 	{
@@ -1281,7 +1281,7 @@
 	[
 		{
 			"follow_symlinks": true,
-			"path": "/media/arquivo/Códigos/UEPG/Estruturas de Dados/2014-02-19"
+			"path": "m:edia\\arquivo\\Códigos\\UEPG\\Estruturas de Dados\\2014-02-19"
 		}
 	],
 	"groups":
