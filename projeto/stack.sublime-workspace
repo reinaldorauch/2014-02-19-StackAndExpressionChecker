@@ -519,6 +519,24 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/media/arquivo/Códigos/UEPG/Estruturas de Dados/2014-02-19/c++/stack.cpp",
+			"settings":
+			{
+				"buffer_size": 1185,
+				"line_ending": "Unix",
+				"name": "#include <iostream>"
+			}
+		},
+		{
+			"file": "/media/arquivo/Códigos/UEPG/Estruturas de Dados/2014-02-19/c++/main.cpp",
+			"settings":
+			{
+				"buffer_size": 268,
+				"line_ending": "Unix",
+				"name": "#include <iostream>"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -920,7 +938,6 @@
 	},
 	"file_history":
 	[
-		"/media/arquivo/Códigos/UEPG/Estruturas de Dados/2014-02-19/c++/stack.cpp",
 		"/home/reinaldo/trabalhos/bestuse-novo/tests/_reports/coverage/css/nv.d3.css",
 		"/home/reinaldo/trabalhos/bestuse-novo/bootstrap-mongodb.php",
 		"/home/reinaldo/trabalhos/bestuse-novo/tests/_reports/coverage/Model_Entity_User.php.html",
@@ -1047,7 +1064,8 @@
 		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/security/Symfony/Component/Security/Core/Tests/Authentication/AuthenticationProviderManagerTest.php",
 		"/home/reinaldo/trabalhos/bestuse-novo/vendor/symfony/security/Symfony/Component/Security/Core/Authentication/Provider/AuthenticationProviderInterface.php",
 		"/home/reinaldo/trabalhos/bestuse-novo/vendor/phpunit/phpunit/Tests/TextUI/abstract-test-class.phpt",
-		"/home/reinaldo/trabalhos/bestuse-novo/vendor/twig/twig/lib/Twig/NodeVisitor/SafeAnalysis.php"
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/twig/twig/lib/Twig/NodeVisitor/SafeAnalysis.php",
+		"/home/reinaldo/trabalhos/bestuse-novo/vendor/doctrine/dbal/lib/Doctrine/DBAL/Schema/SchemaDiff.php"
 	],
 	"find":
 	{
@@ -1281,14 +1299,282 @@
 	[
 		{
 			"follow_symlinks": true,
-			"path": "m:edia\\arquivo\\Códigos\\UEPG\\Estruturas de Dados\\2014-02-19"
+			"path": "/media/arquivo/Códigos/UEPG/Estruturas de Dados/2014-02-19"
 		}
 	],
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/media/arquivo/Códigos/UEPG/Estruturas de Dados/2014-02-19/c++/stack.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1185,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								278,
+								278
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#include <iostream>",
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/media/arquivo/Códigos/UEPG/Estruturas de Dados/2014-02-19/c++/main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 268,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								136,
+								136
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#include <iostream>",
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"encoding_helper_encoding": "UTF-8",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -1864,7 +2150,7 @@
 		[
 			[
 				"",
-				"/media/arquivo/Códigos/UEPG/Estruturas de Dados/2014-02-14/project/2014-02-12-Revisões.sublime-project"
+				"~/Documentos/bestuse.sublime-project"
 			]
 		],
 		"width": 380.0
